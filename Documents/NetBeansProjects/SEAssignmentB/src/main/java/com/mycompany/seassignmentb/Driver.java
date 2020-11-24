@@ -1,12 +1,11 @@
 
 package com.mycompany.seassignmentb;
 
-import Student;
 
 public class Driver {
     
     public static void main(String[] args){
-    Student Eoin = new Student("Eoin", 22, "15/04/1998", 17369166);
+    /*Student Eoin = new Student("Eoin", 22, "15/04/1998", 17369166);
     Student Sarah = new Student("Sarah", 22, "20/08/1998", 17364949);
     Student Paul = new Student("Paul", 21, "05/04/1999", 17483920);
     Student Mary = new Student("Mary", 20, "15/04/2000", 17454345);
@@ -43,5 +42,7 @@ public class Driver {
     ECE.modules.add(CT4101);
     
     System.out.print(ECE.getName());
-    }
+    */
+    
+}
 }
